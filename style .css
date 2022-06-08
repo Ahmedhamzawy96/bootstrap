@@ -1,0 +1,21 @@
+.landing-section {
+    background-image: url("./img/hero-bg.jpg");
+    background-size: cover;
+}
+
+.card:hover {
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+.card:hover .card-body >h3 { 
+    color:#0d6efd;
+}
+.card:hover .card-body >h4 { 
+    color:#0d6efd;
+}
+
+.list-unstyled li:hover i {
+    color:#0d6efd;
+}
+.contact-icon i:hover {
+    color:#0d6efd;
+}
